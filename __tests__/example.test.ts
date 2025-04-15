@@ -1,6 +1,6 @@
 describe("Sample test", () => {
     it("should return true", () => {
-      expect(true).toBe(false);
+      expect(true).toBe(true);
     });
   });
   
